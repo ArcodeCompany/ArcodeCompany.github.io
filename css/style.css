@@ -1333,7 +1333,6 @@ a.bg-video-button-muted{
     font-size: 22px;
     line-height: 1.4;
     font-weight: 600;
-    text-transform: uppercase;
     letter-spacing: 0.0454545em;
 }
 .hs-line-4{
@@ -4348,6 +4347,7 @@ a.logo:hover{
 .footer{
     text-align: center;
     font-size: 18px;   
+	padding-top: 35px;
 }
 .footer a{
     text-decoration: none;    
@@ -4363,6 +4363,7 @@ a.logo:hover{
     font-weight: 600;
     color: #171717;
     opacity: .9;
+	font-size: 0.7em;
 }
 .footer-made{
     font-size: 14px;
@@ -4371,6 +4372,7 @@ a.logo:hover{
 }
 .footer-social-links{
     font-size: 16px;
+	text-align: center;
 }
 .footer-social-links a{
     width: 54px;
