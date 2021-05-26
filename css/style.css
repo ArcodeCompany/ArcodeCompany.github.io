@@ -146,7 +146,7 @@ html, body{
     text-rendering: optimizeLegibility;    
 }
 .arcodeFont {
-	font-family: 'Big Shoulders Display';
+	font-family: 'Big Shoulders Display', cursive;
 }
 
 iframe{
