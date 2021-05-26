@@ -1,2 +1,2 @@
 # Arcode
-Website
+Contact us: hi@arcode.cloud
