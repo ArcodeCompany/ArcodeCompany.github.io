@@ -145,6 +145,9 @@ html, body{
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;    
 }
+.arcodeFont {
+	font-family: 'Big Shoulders Display';
+}
 
 iframe{
     border: none;
