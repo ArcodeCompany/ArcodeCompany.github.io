@@ -147,6 +147,8 @@ html, body{
 }
 .arcodeFont {
 	font-family: 'Big Shoulders Display', cursive;
+	font-size: 2em !important;
+    font-weight: 100 !important;
 }
 
 iframe{
