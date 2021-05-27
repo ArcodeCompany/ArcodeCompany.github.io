@@ -2446,16 +2446,16 @@ a.logo:hover{
     color: #ffffff;
 }
 .bg-dark{
-    background-color: #111 !important;
+    background-color: #10002B !important;
 }
 .bg-dark-lighter{
-    background-color: #1b1b1b !important;
+    background-color: #33005D !important;
 }
 .bg-dark.light-content{
-    background-color: #1b1b1b !important;
+    background-color: #10002B !important;
 }
 .bg-dark-lighter.light-content{
-    background-color: #232323 !important;
+    background-color: #33005D !important;
 }
 .bg-dark,
 .bg-dark-lighter,
