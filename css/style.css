@@ -161,6 +161,16 @@ html, body{
     margin: 10px !important;
 	color: #10002B !important;
 }
+.products {
+	height: 250px !important;
+    margin: 10px !important;
+	color: #10002B !important;
+}
+.products > img{
+	height: 250px !important;
+    margin: 10px !important;
+	color: #10002B !important;
+}
 
 iframe{
     border: none;
