@@ -151,25 +151,34 @@ html, body{
     font-weight: 100 !important;
 }
 
+/* Clients and Products. */
 .clients {
-	height: 90px !important;
-    margin: 10px !important;
 	color: #10002B !important;
 }
 .clients > img{
-	height: 90px !important;
-    margin: 10px !important;
-	color: #10002B !important;
+	margin: 10px !important;
 }
 .products {
-	height: 200px !important;
-    margin: 10px !important;
 	color: #10002B !important;
 }
 .products > img{
-	height: 200px !important;
-    margin: 10px !important;
-	color: #10002B !important;
+	margin: 10px !important;
+}
+@media only screen and (min-width: 401px) {
+	.clients > img {
+		height: 90px !important;
+	}
+	.products > img { 
+		height: 200px !important;
+	}
+}
+@media only screen and (max-width: 400px) {
+	.clients > img {
+		max-width: 300px !important;
+	}
+	.products > img {
+		max-width: 300px !important;
+	}
 }
 
 iframe{
