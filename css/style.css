@@ -180,6 +180,14 @@ html, body{
 		max-width: 300px !important;
 	}
 }
+@media screen and (max-device-width: 640px){
+	.clients > img {
+		max-width: 300px !important;
+	}
+	.products > img {
+		max-width: 300px !important;
+	}
+}
 
 iframe{
     border: none;
