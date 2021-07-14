@@ -151,6 +151,17 @@ html, body{
     font-weight: 100 !important;
 }
 
+.clients {
+	height: 90px !important;
+    margin: 10px !important;
+	color: #10002B !important;
+}
+.clients > img{
+	height: 90px !important;
+    margin: 10px !important;
+	color: #10002B !important;
+}
+
 iframe{
     border: none;
 }
