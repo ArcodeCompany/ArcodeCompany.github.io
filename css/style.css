@@ -4418,6 +4418,7 @@ a.logo:hover{
 	text-align: center;
 }
 .footer-social-links a{
+	text-decoration: none;
     width: 54px;
     height: 54px;
     line-height: 54px !important;
